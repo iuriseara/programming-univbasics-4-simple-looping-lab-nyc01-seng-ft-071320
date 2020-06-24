@@ -13,11 +13,11 @@ def loop_message_n_times(parameter,integer)
     puts parameter
   end
 end
-
-def output_array
-
-end
-
-def return_string_array
-
-end
+#
+# def output_array
+# 
+# end
+#
+# def return_string_array
+#
+# end
